@@ -1,0 +1,196 @@
+[
+   {
+      "id": 1,
+      "chefName": "Alejandro Gonzalez",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Susan1.jpg",
+      "chefInfo": "Alejandro has been cooking traditional Mexican cuisine for over 20 years.",
+      "experience": "20+ years",
+      "totalLikes": 500,
+      "numberOfRecipe": 30,
+      "signatureRecipes": "Tacos al Pastor",
+      "recipeDetails": {
+         "recipeId": 1,
+         "recipeName": "Tacos al Pastor",
+         "description": "A traditional Mexican dish made of masa (a dough made from hominy corn) filled with various ingredients, such as meats, cheese, or chiles, and then wrapped in a corn husk and steamed.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/3/36/Tacos_veganos_en_Aguascalientes_02.jpg",
+         "likes": 500,
+         "ratings": 4.9,
+         "ingredients": [
+            "3 lb pork shoulder",
+            "1/2 cup achiote paste",
+            "1/4 cup white vinegar",
+            "2 tbsp dried oregano",
+            "2 tsp ground cumin",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1/2 pineapple, diced",
+            "corn tortillas",
+            "cilantro, chopped",
+            "white onion, diced",
+            "lime wedges"
+         ]
+      }
+   },
+   {
+      "id": 2,
+      "chefName": "Lupita Hernandez",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Rick_Bayless_in_2010.jpg",
+      "chefInfo": "Lupita is a third-generation chef specializing in authentic Mexican soups.",
+      "experience": "15+ years",
+      "totalLikes": 400,
+      "numberOfRecipe": 66,
+      "signatureRecipes": "Pozole Rojo",
+      "recipeDetails": {
+         "recipeId": 2,
+         "recipeName": "Pozole Rojo",
+         "description": "A classic Mexican dish made with large, mild chile peppers (such as poblano or Anaheim) that are stuffed with cheese, meat, or other ingredients, coated in egg batter, and then fried or baked. It is often served with tomato sauce or salsa.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/5/53/Chile_Rellenos.jpg",
+         "likes": 400,
+         "ratings": 4.8,
+         "ingredients": [
+            "2 lb pork shoulder, cut into chunks",
+            "1 onion, chopped",
+            "4 cloves garlic, minced",
+            "2 tbsp chili powder",
+            "1 tbsp dried oregano",
+            "1 tsp ground cumin",
+            "6 cups chicken broth",
+            "2 cans hominy, drained and rinsed",
+            "1 head cabbage, shredded",
+            "radishes, sliced",
+            "lime wedges",
+            "tostadas"
+         ]
+      }
+   },
+   {
+      "id": 3,
+      "chefName": "Yolanda Sánchez",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
+      "chefInfo": "Jorge's passion for Mexican cuisine comes from his childhood spent in Oaxaca.",
+      "experience": "10+ years",
+      "totalLikes": 350,
+      "numberOfRecipe": 55,
+      "signatureRecipes": "Chiles Rellenos",
+      "recipeDetails": {
+         "recipeId": 3,
+         "recipeName": "Chiles Rellenos",
+         "description": "A rich and complex sauce made with chiles, spices, and often chocolate or other ingredients. It is typically served over chicken, turkey, or pork.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+         "likes": 350,
+         "ratings": 4.7,
+         "ingredients": [
+            "6 poblano peppers",
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tsp ground cumin",
+            "1 tsp dried oregano",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "2 cups shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil"
+         ]
+      }
+   },
+   {
+      "id": 4,
+      "chefName": "Ricardo Muñoz Zurita",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Joe_Barza.JPG",
+      "chefInfo": "Jorge's passion for Mexican cuisine comes from his childhood spent in Oaxaca.",
+      "experience": "10+ years",
+      "totalLikes": 350,
+      "numberOfRecipe": 33,
+      "signatureRecipes": "Chiles Rellenos",
+      "recipeDetails": {
+         "recipeId": 4,
+         "recipeName": "Chiles Rellenos",
+         "description": "A seafood dish made with raw fish or shellfish that is marinated in citrus juice (such as lime or lemon) and mixed with onions, chiles, and other seasonings.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+         "likes": 350,
+         "ratings": 4.7,
+         "ingredients": [
+            "6 poblano peppers",
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tsp ground cumin",
+            "1 tsp dried oregano",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "2 cups shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil"
+         ]
+      }
+   },
+   {
+      "id": 5,
+      "chefName": "Susana Trilling",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Chef_Michael_Mina.jpg",
+      "chefInfo": "Jorge's passion for Mexican cuisine comes from his childhood spent in Oaxaca.",
+      "experience": "10+ years",
+      "totalLikes": 350,
+      "numberOfRecipe": 44,
+      "signatureRecipes": "Chiles Rellenos",
+      "recipeDetails": {
+         "recipeId": 5,
+         "recipeName": "Chiles Rellenos",
+         "description": "A popular Mexican dish made with tortillas that are filled with meat, cheese, beans, or other ingredients, and then rolled up and covered with a sauce (such as salsa or mole) and cheese.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Carnitas.jpg",
+         "likes": 350,
+         "ratings": 4.7,
+         "ingredients": [
+            "6 poblano peppers",
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tsp ground cumin",
+            "1 tsp dried oregano",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "2 cups shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil"
+         ]
+      }
+   },
+   {
+      "id": 6,
+      "chefName": "Patricia Quintana",
+      "chefImg": "https://upload.wikimedia.org/wikipedia/commons/4/48/H%C3%A9l%C3%A8ne_Darroze.jpg",
+      "chefInfo": "Jorge's passion for Mexican cuisine comes from his childhood spent in Oaxaca.",
+      "experience": "10+ years",
+      "totalLikes": 350,
+      "numberOfRecipe": 77,
+      "signatureRecipes": "Chiles Rellenos",
+      "recipeDetails": {
+         "recipeId": 6,
+         "recipeName": "Chiles Rellenos",
+         "description": "A traditional Mexican soup made with hominy (dried corn kernels), meat (typically pork), and various spices and seasonings. It is often served with garnishes such as lime, cilantro, and radishes.",
+         "recipeImg": "https://upload.wikimedia.org/wikipedia/commons/9/92/01_Chilaquiles_verdes_con_frijoles_chinos.jpg",
+         "likes": 350,
+         "ratings": 4.7,
+         "ingredients": [
+            "6 poblano peppers",
+            "1 lb ground beef",
+            "1 onion, chopped",
+            "2 cloves garlic, minced",
+            "1 tsp ground cumin",
+            "1 tsp dried oregano",
+            "1 tsp salt",
+            "1/2 tsp black pepper",
+            "2 cups shredded Monterey Jack cheese",
+            "1 egg, separated",
+            "1/4 cup all-purpose flour",
+            "1/2 cup vegetable oil"
+         ]
+      }
+   }
+]
