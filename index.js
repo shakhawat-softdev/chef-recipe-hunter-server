@@ -21,8 +21,6 @@ app.get('/details/:id', (req, res) => {
    res.send(details);
 });
 
-
-
 app.listen(port, () => {
    console.log(`Chef recipe hunter is runnng on port ${port}`)
 })
