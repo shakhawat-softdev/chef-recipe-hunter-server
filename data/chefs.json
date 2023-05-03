@@ -31,7 +31,94 @@
             "white onion, diced",
             "lime wedges"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Guacamole",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Taco Salad",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Chicken Enchiladas",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Chiles Rellenos",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Salsa",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Marinate pork with achiote paste, pineapple juice, and spices",
+         "Cook pork on a spit or in a pan until crispy",
+         "Warm tortillas and assemble tacos with pork, pineapple, onion, and cilantro",
+         "Serve with lime wedges and salsa"
+      ]
    },
    {
       "id": 2,
@@ -63,11 +150,99 @@
             "lime wedges",
             "tostadas"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Tacos al Pastor",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Enchiladas",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Quesadillas",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Pozole",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Guacamole",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Make a sauce with tomatoes, chiles, onion, and spices",
+         "Dip tortillas in sauce and fill with shredded chicken or cheese",
+         "Roll tortillas and place in a baking dish",
+         "Cover with more sauce and cheese",
+         "Bake until cheese is melted and bubbly"
+      ]
    },
    {
       "id": 3,
-      "chefName": "Yolanda Sánchez",
+      "chefName": "Salsa Verde",
       "chefImg": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Chef_Shota.jpg",
       "chefInfo": "Jolanda Sánchez's passion for Mexican cuisine comes from his childhood spent in Oaxaca and owner of the restaurant Quintonil in Mexico City. His cuisine is focused on using fresh, locally-sourced ingredients and he has been recognized as one of the top chefs in the world.",
       "experience": "10+ years",
@@ -95,7 +270,95 @@
             "1/4 cup all-purpose flour",
             "1/2 cup vegetable oil"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Carne Asada",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Fajitas",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Tamales",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Churros",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Flan",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Roast poblano peppers and remove skin and seeds",
+         "Stuff peppers with cheese or ground meat",
+         "Coat peppers in batter and fry until golden",
+         "Make a tomato sauce and pour over peppers",
+         "Serve with rice and beans"
+      ]
    },
    {
       "id": 4,
@@ -127,7 +390,94 @@
             "1/4 cup all-purpose flour",
             "1/2 cup vegetable oil"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Huevos Rancheros",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Mexican Rice",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Refried Beans",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Pico de Gallo",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Empanadas",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Boil pork or chicken with onion, garlic, and spices",
+         "Add hominy and continue cooking until tender",
+         "Serve with shredded lettuce, radish, onion, and lime wedges",
+         "Optional toppings include avocado, cilantro, and crushed tortilla chips"
+      ]
    },
    {
       "id": 5,
@@ -159,7 +509,94 @@
             "1/4 cup all-purpose flour",
             "1/2 cup vegetable oil"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Sopaipillas",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Chile con Queso",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Carnitas",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Chiles Rellenos",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Salsa",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Mash avocados with lime juice, salt, and garlic",
+         "Add chopped tomatoes, onions, and jalapeños",
+         "Stir in chopped cilantro",
+         "Serve with tortilla chips or as a topping for tacos"
+      ]
    },
    {
       "id": 6,
@@ -191,6 +628,94 @@
             "1/4 cup all-purpose flour",
             "1/2 cup vegetable oil"
          ]
-      }
+      },
+      "recipes": [
+         {
+            "name": "Guacamole",
+            "ingredients": [
+               "3 ripe avocados",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup chopped red onion",
+               "1/4 cup diced tomato",
+               "1 jalapeño pepper, seeded and minced",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         },
+         {
+            "name": "Taco Salad",
+            "ingredients": [
+               "1 pound ground beef",
+               "1 packet taco seasoning mix",
+               "1 head lettuce, chopped",
+               "1 cup shredded cheddar cheese",
+               "1 cup diced tomato",
+               "1/2 cup diced red onion",
+               "1/2 cup diced green pepper",
+               "1/2 cup canned black beans, drained and rinsed",
+               "1/2 cup canned corn, drained",
+               "1/4 cup chopped fresh cilantro",
+               "1/4 cup salsa",
+               "1/4 cup sour cream",
+               "Tortilla chips, for serving"
+            ]
+         },
+         {
+            "name": "Chicken Enchiladas",
+            "ingredients": [
+               "2 cups shredded cooked chicken",
+               "1 can enchilada sauce",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1/4 cup chopped fresh cilantro",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "8 corn tortillas",
+               "1 cup shredded cheddar cheese"
+            ]
+         },
+         {
+            "name": "Chiles Rellenos",
+            "ingredients": [
+               "4 poblano peppers",
+               "1 pound ground beef",
+               "1/4 cup diced onion",
+               "1/4 cup diced green pepper",
+               "1/4 cup diced red pepper",
+               "1 teaspoon chili powder",
+               "1/2 teaspoon cumin",
+               "1/2 teaspoon garlic powder",
+               "1/2 cup shredded cheddar cheese",
+               "1/4 cup chopped fresh cilantro",
+               "Salt and pepper to taste",
+               "1 egg",
+               "1/2 cup flour",
+               "1/2 cup milk",
+               "1/2 cup vegetable oil"
+            ]
+         },
+         {
+            "name": "Salsa",
+            "ingredients": [
+               "1 can diced tomatoes",
+               "1/4 cup chopped onion",
+               "1/4 cup chopped cilantro",
+               "1 jalapeño pepper, seeded and chopped",
+               "2 cloves garlic, minced",
+               "1 lime, juiced",
+               "Salt and pepper to taste"
+            ]
+         }
+      ],
+      "cooking_methods": [
+         "Roast poblano peppers and remove skin and seeds",
+         "Stuff peppers with picadillo (ground meat with fruits, nuts, and spices)",
+         "Prepare a walnut sauce with nuts, milk, and spices",
+         "Top the peppers with the walnut sauce and pomegranate seeds",
+         "Serve chilled"
+      ]
    }
 ]
